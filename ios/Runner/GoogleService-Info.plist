@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>943341995509-opg1kib4197lfap248v49umma4rvm4sh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.943341995509-opg1kib4197lfap248v49umma4rvm4sh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpRgyWGHI4FfQa_cfQ8url7OBQURJeRoE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>943341995509</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fresho.tattle</string>
+	<key>PROJECT_ID</key>
+	<string>fir-tattle</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-tattle.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:943341995509:ios:55654b27571b672cd04cbc</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943341995509",
+    "project_id": "fir-tattle",
+    "storage_bucket": "fir-tattle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943341995509:android:5311b33c6ae1619ad04cbc",
+        "android_client_info": {
+          "package_name": "com.fresho.tattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943341995509-6rnqur6oml3kcb980opglihuacg64bir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfrgr-lwxhemO5TbRQTjTG3vgfw0nmJmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943341995509-6rnqur6oml3kcb980opglihuacg64bir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
